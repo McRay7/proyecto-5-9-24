@@ -1,0 +1,140 @@
+
+.antena1
+{
+    background-color: green;
+    width: 40px; height: 40px;
+    position: relative;
+    left: 200px;
+}
+.antena2
+{
+    background-color: blue;
+    width: 20px; height: 70px;
+    position: relative;
+    left: 210px;
+}
+.cabeza
+{
+    background-color: orange;
+    width: 150px; height: 150px;
+    position: relative;
+    left: 150px;
+}
+.cuello
+{
+    background-color: blue;
+    width: 30px; height: 30px;
+    position: relative;
+    left: 210px;
+}
+.torzo
+{
+    background-color: orange;
+    width: 200px; height: 200px;
+    position: relative;
+    left: 130px;
+}
+.cintura
+{
+    background-color: orange;
+    width: 150px; height: 25px;
+    position: relative;
+    left: 155px;
+}
+.base
+{
+    background-color: orange;
+    width: 200px; height: 200px;
+    position: relative;
+    left: 130px;
+}
+.ojo1
+{
+    background-color: blue;
+    width: 40px; height: 40px;
+    position: absolute;
+    left: 20px;
+    top: 20px;
+}
+.ojo2
+{
+    background-color: blue;
+    width: 40px; height: 40px;
+    position: absolute;
+    right: 20px;
+    top: 20px;
+}
+.nariz
+{
+    background-color: yellow;
+    width: 40px; height: 40px;
+    border-radius: 100px;
+    position: absolute;
+    right: 55px;
+    top: 60px;
+}
+.boca
+{
+    background-color: red;
+    width: 120px ; height: 20px;
+    position: absolute;
+    right: 15px;
+    bottom: 10px;
+
+}
+.torso1
+{
+    background-color: green;
+    width: 155px;height: 60px;
+    position: absolute;
+    top: 25px;
+    right: 20px;
+}
+.torso2
+{
+    background-color: green;
+    width: 155px;height: 60px;
+    position: absolute;
+    bottom: 25px;
+    right: 20px;
+}
+.circuito
+{
+    background-color: green;
+    width: 50px; height: 150px;
+    position: absolute;
+    right: 10px;
+    top: 25px;
+}
+.circuito1
+{
+    background-color: green;
+    width: 50px; height: 150px;
+    position: absolute;
+    right: 75px;
+    top: 25px;
+}
+.circuito2
+{
+    background-color: green;
+    width: 50px; height: 150px;
+    position: absolute;
+    left: 10px;
+    top: 25px;
+}
+.pupila
+{
+    background-color: black;
+    width: 10px; height: 10px;
+    position: absolute;
+    left: 15px;
+    top: 15px;
+}
+.pupilas
+{
+    background-color: black;
+    width: 10px; height: 10px;
+    position: absolute;
+    left: 15px;
+    top: 15px;
+}
